@@ -1,1 +1,1 @@
-# Chemistry-course-ru-en
+# html-chemistry-course
